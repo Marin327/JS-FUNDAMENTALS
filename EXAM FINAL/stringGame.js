@@ -1,0 +1,4 @@
+function stringGame(input) {
+
+}
+stringGame([''])
